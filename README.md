@@ -5,7 +5,7 @@ qt的学习代码
 
 ## 文件说明
 
-### [firstQt](firstQt)
+### [firstQt: 空界面](firstQt)
 
 * [firstQt.pro](firstQt/firstQt.pro)
 * [main.cpp](firstQT/main.cpp)
@@ -14,7 +14,7 @@ qt的学习代码
 * [mainwindow.ui](firstQT/mainwindow.ui)
 
 
-### [button](button)
+### [button: 按钮](button)
 
 * [button.cpp](button/button.cpp)
 * [button.h](button/button.h)
