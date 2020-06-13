@@ -23,4 +23,12 @@ qt的学习代码
 * [widget.cpp](button/widget.cpp)
 * [widget.h](button/widget.h)
 
+### [signalsAndSlot: 信号与槽](signalsAndSlot)
 
+* [widget.cpp](signalsAndSlot/widget.cpp)
+* [widget.h](signalsAndSlot/widget.h)
+* [student.cpp](signalsAndSlot/student.cpp)
+* [student.h](signalsAndSlot/student.h)
+* [teather.cpp](signalsAndSlot/teather.cpp)
+* [teather.h](signalsAndSlot/teather.h)
+* [mian.cpp](signalsAndSlot/mian.cpp)
