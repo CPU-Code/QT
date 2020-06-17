@@ -1,7 +1,9 @@
 # QT
 
 ## 介绍
-qt的学习代码
+个人qt的学习代码，也可以成为你的学习QT路径，源码内有详细的注解。
+
+内容：创建第一个Qt程序、熟悉按钮控件常用API、对象树的基本概念、Qt中的坐标系统、信号和槽的基本使用以及拓展、带菜单栏的窗口、资源文件、对话框、界面布局、常用控件、自定义控件、事件处理、定时器、Event事件分发器、事件过滤器、QPainter绘图、绘图设备的使用、Qfile文件读写操作，最后会建立一个类似于QQ即时聊天的qt小项目
 
 ## 文件说明
 
@@ -39,33 +41,12 @@ qt的学习代码
 * [mainWindow.h](QMainWindow/mainWindow.h)
 * [mian.cpp](QMainWindow/mian.cpp)
 
+### [source: 图片添加](source)
 
+* [mainWindow.cpp](source/mainWindow.cpp)
+* [mainWindow.h](source/mainWindow.h)
+* [Image: 图片](source/Image)
+* [mian.cpp](source/mian.cpp)
+* [mainwindow.ui: UI设计](source/mainwindow.ui)
+* [res.qrc: 资源包](source/res.qrc)
 
-第一天：
-	1、Qt的介绍、优点、成功案例
-	2、创建第一个Qt程序
-	3、熟悉按钮控件常用API
-	4、对象树的基本概念
-	5、Qt中的坐标系统
-	6、信号和槽的基本使用以及拓展
-	
-第二天：
-	1、带菜单栏的窗口
-	2、资源文件
-	3、对话框
-	4、界面布局
-	5、常用控件
-	6、自定义控件
-	
-第三天：
-	1、事件处理
-	2、定时器
-	3、Event事件分发器
-	4、事件过滤器
-	5、QPainter绘图
-	6、绘图设备的使用
-	7、Qfile文件读写操作
-	
-
-第四天：
-	QQ群聊软件
