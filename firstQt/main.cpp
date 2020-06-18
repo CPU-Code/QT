@@ -1,11 +1,12 @@
 /*
  * @Author: cpu_code
  * @Date: 2020-06-11 20:24:20
- * @LastEditTime: 2020-06-11 20:26:09
+ * @LastEditTime: 2020-06-18 19:23:32
  * @FilePath: \QT\firstQt\main.cpp
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
  */ 
+
 #include "mywidget.h" //包含头文件
 #include <QApplication> //包含QApplication头文件
 
