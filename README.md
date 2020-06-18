@@ -25,6 +25,7 @@
 * [widget.cpp](button/widget.cpp)
 * [widget.h](button/widget.h)
 
+
 ### [signalsAndSlot: 信号与槽](signalsAndSlot)
 
 * [widget.cpp](signalsAndSlot/widget.cpp)
@@ -35,11 +36,13 @@
 * [teather.h](signalsAndSlot/teather.h)
 * [mian.cpp](signalsAndSlot/mian.cpp)
 
+
 ### [QMainWindow: 主窗口](QMainWindow)
 
 * [mainWindow.cpp](QMainWindow/mainWindow.cpp)
 * [mainWindow.h](QMainWindow/mainWindow.h)
 * [mian.cpp](QMainWindow/mian.cpp)
+
 
 ### [source: 图片添加](source)
 
@@ -49,4 +52,13 @@
 * [mian.cpp](source/mian.cpp)
 * [mainwindow.ui: UI设计](source/mainwindow.ui)
 * [res.qrc: 资源包](source/res.qrc)
+
+
+### [QDialog: 对话框](QDialog)
+
+* [mian.cpp](QDialog/mian.cpp)
+* [mainwindow.cpp](QDialog/mainwindow.cpp)
+* [mainwindow.h](QDialog/mainwindow.h)
+* [mainwindow.ui](QDialog/mainwindow.ui)
+
 
