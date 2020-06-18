@@ -61,4 +61,11 @@
 * [mainwindow.h](QDialog/mainwindow.h)
 * [mainwindow.ui](QDialog/mainwindow.ui)
 
+### [Layout: 布局管理器](Layout)
+
+* [mian.cpp](Layout/mian.cpp)
+* [mainwindow.cpp](Layout/mainwindow.cpp)
+* [mainwindow.h](Layout/mainwindow.h)
+* [mainwindow.ui](Layout/mainwindow.ui)
+* [Layout.pro](Layout/Layout.pro)
 
