@@ -69,3 +69,10 @@
 * [mainwindow.ui](Layout/mainwindow.ui)
 * [Layout.pro](Layout/Layout.pro)
 
+### [Control: 控件](Control)
+
+* [mian.cpp](Control/mian.cpp)
+* [mainwindow.cpp](Control/mainwindow.cpp)
+* [mainwindow.h](Control/mainwindow.h)
+* [mainwindow.ui](Control/mainwindow.ui)
+* [Layout.pro](Control/Layout.pro)
